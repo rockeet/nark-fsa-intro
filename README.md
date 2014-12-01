@@ -1,9 +1,9 @@
 nark-fsa-intro
 ==============
 
-This project is just the introduction of `nark-fsa`.
+This project is just the introduction of `nark-fsa`, `nark-fsa` is private on github.
 
-`nark-fsa` is a Finite State Automata library, it is private on github, it provides:
+`nark-fsa` is a Finite State Automata library which implemented:
 * [High compression dictionary with hierachical keys](#adfa)
 * [DAWG(Directed Acyclic Word Graph)](#dawg)
 * [Multiple Regular Expression matching](#regex)
@@ -16,7 +16,7 @@ This project is just the introduction of `nark-fsa`.
 <h2 id="adfa">High compression dictionary with hierachical keys</h2>
 ### Features
   1. Fast
-  1. Small: much smaller than input data set
+  1. Small: much smaller than input data set (usually 3+ times smaller)
   1. prefix search: search keys which is a prefix of input text
   1. predictive search: search suffixies which prefixies matche input text
   1. value search: value search is a kind of predictive search
