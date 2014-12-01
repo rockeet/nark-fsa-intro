@@ -1,7 +1,7 @@
 nark-fsa-intro
 ==============
 
-This project is just the introduction of `nark-fsa`, `nark-fsa` is private on github.
+This project is just the introduction of `nark-fsa`, `nark-fsa` is private on github, it has an [official site(chinese)](http://nfabo.cn).
 
 `nark-fsa` is a Finite State Automata library which implemented:
 * [High compression dictionary with hierachical keys](#adfa)
