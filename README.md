@@ -9,8 +9,8 @@ This project is just the introduction of `nark-fsa`, `nark-fsa` is private on gi
 * [Multiple Regular Expression matching](#regex)
 * [Aho-Corasick automata](#ahoc)
 * [Hocroft DFA minimization algorithm](#hopcroft)
-* [Offline Linear time Acyclic DFA minimization algorithm](#offline-adfa)
-* [Online Linear time Acyclic DFA minimization algorithm](#online-adfa)
+* [Offline Linear time Acyclic DFA minimization](#offline-adfa)
+* [Online Linear time Acyclic DFA minimization](#online-adfa)
 * [Load DFA file through Memory Mapping](#dfa-mmap)
 
 <h2 id="adfa">High compression dictionary with hierachical keys</h2>
@@ -36,10 +36,10 @@ To be done ...
 <h2 id="hopcroft">Hocroft DFA minimization algorithm</h2>
 To be done ...
 
-<h2 id="offline-adfa">Offline Linear time Acyclic DFA minimization algorithm</h2>
+<h2 id="offline-adfa">Offline Linear time Acyclic DFA minimization</h2>
 To be done ...
 
-<h2 id="online-adfa">Online Linear time Acyclic DFA minimization algorithm</h2>
+<h2 id="online-adfa">Online Linear time Acyclic DFA minimization</h2>
 To be done ...
 
 <h2 id="dfa-mmap">Load DFA file through Memory Mapping</h2>
