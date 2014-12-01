@@ -4,10 +4,10 @@ nark-fsa-intro
 This project is just the introduction of `nark-fsa`.
 
 `nark-fsa` is a Finite State Automata library, it is private on github, it provides:
-* High compression dictionary with hierachical keys
-* DAWG(Directed Acyclic Word Graph)
-* Multiple Regular Expression matching
-* Aho-Corasick automata
+* [High compression dictionary with hierachical keys](#adfa)
+* [DAWG(Directed Acyclic Word Graph)](#dawg)
+* [Multiple Regular Expression matching](#regex)
+* [Aho-Corasick automata](#ahoc)
 
 <h2 id="adfa">High compression dictionary with hierachical keys</h2>
 ### Features
