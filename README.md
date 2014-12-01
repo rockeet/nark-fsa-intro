@@ -1,6 +1,8 @@
 nark-fsa-intro
 ==============
 
+This project is just the introduction of `nark-fsa`.
+
 `nark-fsa` is a Finite State Automata library, it is private on github, it provides:
 * High compression dictionary with hierachical keys
 * DAWG(Directed Acyclic Word Graph)
