@@ -22,7 +22,7 @@ This project is just the introduction of `nark-fsa`, `nark-fsa` is private on gi
 <h2 id="adfa">High compression dictionary with hierachical keys</h2>
 ### Features
   1. Fast
-  1. Small: much smaller than input data set (usually 3+ times smaller)
+  1. Small: much smaller than input data set (usually 3+ times smaller, maybe 30+ times smaller, depend on input data)
   1. prefix search: search keys which is a prefix of input text
   1. predictive search: search suffixies which prefixies matche input text
   1. value search: value search is a kind of predictive search
