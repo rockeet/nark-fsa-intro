@@ -8,6 +8,10 @@ This project is just the introduction of `nark-fsa`.
 * [DAWG(Directed Acyclic Word Graph)](#dawg)
 * [Multiple Regular Expression matching](#regex)
 * [Aho-Corasick automata](#ahoc)
+* [Hocroft DFA minimization algorithm](#hopcroft)
+* [Offline Linear time Acyclic DFA minimization algorithm](#offline-adfa)
+* [Online Linear time Acyclic DFA minimization algorithm](#online-adfa)
+* [Load DFA file through Memory Mapping](#dfa-mmap)
 
 <h2 id="adfa">High compression dictionary with hierachical keys</h2>
 ### Features
@@ -28,4 +32,17 @@ To be done ...
 There are two implementation of Aho-Corasick automata: Compact Dynamic DFA based and double array trie based.
 
 To be done ...
+
+<h2 id="hopcroft">Hocroft DFA minimization algorithm</h2>
+To be done ...
+
+<h2 id="offline-adfa">Offline Linear time Acyclic DFA minimization algorithm</h2>
+To be done ...
+
+<h2 id="online-adfa">Online Linear time Acyclic DFA minimization algorithm</h2>
+To be done ...
+
+<h2 id="dfa-mmap">Load DFA file through Memory Mapping</h2>
+To be done ...
+
 
