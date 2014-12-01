@@ -6,12 +6,18 @@ This project is just the introduction of `nark-fsa`, `nark-fsa` is private on gi
 `nark-fsa` is a Finite State Automata library which implemented:
 * [High compression dictionary with hierachical keys](#adfa)
 * [DAWG(Directed Acyclic Word Graph)](#dawg)
-* [Multiple Regular Expression matching](#regex)
+* [DFA Regular Expression Engin](#regex)
 * [Aho-Corasick automata](#ahoc)
 * [Hocroft DFA minimization algorithm](#hopcroft)
 * [Offline Linear time Acyclic DFA minimization](#offline-adfa)
 * [Online Linear time Acyclic DFA minimization](#online-adfa)
 * [Load DFA file through Memory Mapping](#dfa-mmap)
+
+`nark-fsa` also has many **Amazing** features:
+* [Multiple Regex Matching](#multi-regex)
+* [Search DFA DataBase with DFA(regex)](#dfa-dfa)
+* [Regex **Intersection** and **Difference**](#dfa-dfa)
+* To be continued...
 
 <h2 id="adfa">High compression dictionary with hierachical keys</h2>
 ### Features
@@ -25,7 +31,7 @@ This project is just the introduction of `nark-fsa`, `nark-fsa` is private on gi
 
 To be done ...
 
-<h2 id="regex">Multiple Regular Expression matching</h2>
+<h2 id="regex">DFA Regular Expression Engin</h2>
 To be done ...
 
 <h2 id="ahoc">Aho-Corasick automata</h2>
